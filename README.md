@@ -2,7 +2,7 @@
 | TUGAS | FILE |
 | ------| -----|
 | [TUGAS 1](#tugas-1) |  _[FILE](https://github.com/ALiAzhar14/SysAdmin-3122500011/blob/main/TUGAS1.md)_ |
-| TUGAS 2 | (#tugas-2) |  _[FILE](https://github.com/ALiAzhar14/SysAdmin-3122500011/blob/main/TUGAS2/TUGAS_2/PPT_SYSADMIN.md)_ |
+| [TUGAS 2](#tugas-2) |  _[FILE](https://github.com/ALiAzhar14/SysAdmin-3122500011/blob/main/TUGAS2/TUGAS_2/PPT_SYSADMIN.md)_ |
 
 # KELOMPOK 2
 
