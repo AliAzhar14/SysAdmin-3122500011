@@ -8,6 +8,7 @@
 | [TUGAS 5](#tugas-5) |  _[FILE](https://github.com/ALiAzhar14/SysAdmin-3122500011/blob/main/TUGAS5/README.md)_ |
 | [TUGAS 6](#tugas-6) |  _[FILE](https://github.com/ALiAzhar14/SysAdmin-3122500011/blob/main/TUGAS6/README.md)_ |
 | [TUGAS 7](#tugas-7) |  _[FILE](https://github.com/ALiAzhar14/SysAdmin-3122500011/blob/main/TUGAS7/README.md)_ |
+| [TUGAS_UAS](#tugas-UAS) |  _[FILE](https://github.com/ALiAzhar14/SysAdmin-3122500011/blob/main/TUGAS_UAS/README.md)_ |
 
 # KELOMPOK 2
 
